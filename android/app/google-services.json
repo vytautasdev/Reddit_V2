@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1046646822773",
+    "project_id": "reddit-v2-e8f54",
+    "storage_bucket": "reddit-v2-e8f54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046646822773:android:7fdabbf20205fcbb50253c",
+        "android_client_info": {
+          "package_name": "com.vytautasdev.reddit_v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046646822773-kic531bca0dh6dbuoen0sig3qqm7jusc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vytautasdev.reddit_v2",
+            "certificate_hash": "037e5b6bfd06bb27a9eb026bce1cd200cea645c8"
+          }
+        },
+        {
+          "client_id": "1046646822773-t7eii3lj44m6ksfbn5kvcsdmuibbu2ms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNX15I3kVMhmtOUbTIGzqRZjuTcX0kVOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046646822773-t7eii3lj44m6ksfbn5kvcsdmuibbu2ms.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1046646822773-hle04j0fo06u5mr2vgakohtqljdr497v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vytautasdev.redditV2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
